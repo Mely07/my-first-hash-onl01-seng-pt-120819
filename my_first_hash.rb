@@ -1,5 +1,5 @@
 def my_hash 
-  your_hash =  summer = {"temperature" => 80}
+  your_hash = summer = {"temperature" => 80}
   return 
 end
 
