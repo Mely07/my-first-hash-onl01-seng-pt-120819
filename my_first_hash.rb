@@ -1,6 +1,6 @@
 def my_hash 
-  your_hash = summer = {"temperature" => 80}
-  return 
+  return your_hash = summer = {"temperature" => 80}
+  
 end
 
 def shipping_manifest
